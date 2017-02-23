@@ -1,3 +1,3 @@
 # life-blobs
 
-# this is my lil place for side project nonsense 
+this is my lil place for side project nonsense 
